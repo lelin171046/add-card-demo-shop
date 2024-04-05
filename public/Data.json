@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "title": "Product A",
+      "price": 19.99,
+      "description": "This is a description for Product A.",
+      "category": "Electronics",
+      "image": "https://i.ibb.co/m8KdSFQ/images-2.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Product B",
+      "price": 29.99,
+      "description": "This is a description for Product B.",
+      "category": "Clothing",
+      "image": "https://i.ibb.co/Sv3Bzhd/images.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Product C",
+      "price": 9.99,
+      "description": "This is a description for Product C.",
+      "category": "Home & Garden",
+      "image": "https://i.ibb.co/JKDZncy/images-1.jpg"
+    }
+  ]
+  
